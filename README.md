@@ -9,9 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
 
-<h2>Github Data</h2>
-<a href="https://github.com/tejasnp163/tejasnp163">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
-</a>
-
 ![Tejas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical)
+![Tejas's github stats](https://github-readme-stats.vercel.app/api/pin/?username=tejasnp163&show_icons=true&theme=radical)
