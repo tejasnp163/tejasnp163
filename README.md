@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h2> Machine Learning Technologies </h2>
