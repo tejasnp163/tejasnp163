@@ -1,5 +1,5 @@
-### Hi there, My name is Tejas Pandit.
-##  I am a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tejas Pandit.
+I am a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
 
 Here are some ideas to get you started:
 
