@@ -12,12 +12,10 @@ Here are some ideas to get you started:
 <hr>
 
 <p>
- 
+ ![Tejas's github stats](https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical)
 ![Tejas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical)
 
 </p>
 <p>
-
-![Tejas's github stats](https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical)
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 </p>
