@@ -26,13 +26,13 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2E86C1)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Tools-Dot_Net-informational?style=flat&logo=kubernetes&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio-idea&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-Dot_Net-informational?style=flat&logo=Dot-Net&logoColor=white&color=2E86C1)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2E86C1)
