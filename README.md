@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
+
+<hr>
+
 <p>
  
 ![Tejas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical)
