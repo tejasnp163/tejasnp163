@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical&layout=compact&line_height=27&count_private=true" alt="Tejas's GitHub Stats" />
 </a>
-## 👨🏽‍💻 Machine Learning
+
+## 👨🏽‍💻 Machine Learning and Deep Learning
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
 
 
 ## 🔧 Technologies & Tools
