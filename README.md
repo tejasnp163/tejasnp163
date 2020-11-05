@@ -28,3 +28,13 @@ Here are some ideas to get you started:
   <li>nltk, Spacy</li>
   <li>OpenCV</li>
 </ul>
+
+<h2> Big Data Technologies </h2>
+<ul>
+  <li> Hadoop, Spark </li>
+</ul>
+
+<h2> Programming Languages </h2>
+<ul>
+  <li>Python, R, C++, C#</li>
+</ul>
