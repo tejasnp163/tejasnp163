@@ -1,4 +1,4 @@
-### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. My name is Tejas Pandit.
+### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tejas Pandit.
 - 👨🏻‍🎓 I'm a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
 - 🔭 I’m currently working on various machine learning projects that deals with real-world data and extracts hidden and intresting patterns.
 - 🌱 I’m currently learning Deep learning, Natural language processing, Computer vision, and various cloud platforms such as Amazon Web Services.
