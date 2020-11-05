@@ -15,13 +15,11 @@
 </a>
 
 ## 👨🏽‍💻 Machine Learning and Deep Learning
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Field-Natural_Language_Processing-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Field-Computer_Vision-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=power-bi&logo=linux&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2E86C1)
 
 
 ## 🔧 Technologies & Tools
