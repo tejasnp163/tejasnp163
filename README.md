@@ -14,5 +14,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
 
-
-![Tejas's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnp163&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnp163&show_icons=true&theme=radical" />
+![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejasnp163&show_icons=true&theme=radical)
