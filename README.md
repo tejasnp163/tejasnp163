@@ -6,6 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning, Natural language processing, Computer vision, and Amazon Web Services.
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
 - 💬 Ask me about Machine Learning algorithms and Cooking.
-- 📫 How to reach me: https://www.linkedin.com/in/tejas-pandit/ 
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a> 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
