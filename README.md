@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 </a>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasnp163&theme=dark" />
+![Tejas's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnp163&theme=dark" />
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
