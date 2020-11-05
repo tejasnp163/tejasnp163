@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/tejasnp163/tejasnp163">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&hide=java,html&title_color=black&text_color=black&icon_color=black&bg_color=white" />
 </a>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasnp163&theme=dark" />
