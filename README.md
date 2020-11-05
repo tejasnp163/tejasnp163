@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical&layout=compact&line_height=27&count_private=true" alt="Tejas's GitHub Stats" />
 </a>
+## 👨🏽‍💻 Machine Learning
 
 
 ## 🔧 Technologies & Tools
@@ -26,11 +27,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Editor-Jupyter_Notebook-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2E86C1)
+![](https://img.shields.io/badge/Tools-Dot_Net-informational?style=flat&logo=kubernetes&logoColor=white&color=2E86C1)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=python&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Code-(C_#)-informational?style=flat&logo=python&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2E86C1)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2E86C1)
