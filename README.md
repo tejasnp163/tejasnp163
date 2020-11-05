@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tejas Pandit.
-I am a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
-
-Here are some ideas to get you started:
-
+- 👨🏻‍🎓I am a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
 - 🔭 I’m currently working on various machine learning projects that deals with real-world data and extracts hidden and intresting patterns.
 - 🌱 I’m currently learning Deep learning, Natural language processing, Computer vision, and various cloud platforms such as Amazon Web Services.
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
