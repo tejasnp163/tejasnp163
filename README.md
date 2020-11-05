@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 </a>
 
 
-![Tejas's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnp163&theme=dark" />
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Tejas's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnp163&show_icons=true&theme=radical" />
