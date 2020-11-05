@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; Tejas's GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical&layout=compact" alt="Tejas's GitHub Stats" />
