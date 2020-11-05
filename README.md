@@ -8,4 +8,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
 
-<h2> Machine Learning Technologies </h2>
+<h2> Machine Learning and Deep Learning</h2>
+<h4>Data Preprocessing</h4>
+<ul>
+  <li>Data Cleaning</li>
+  <li>Feature Engineering</li>
+</ul>
+
+<h4>Data Visualization</h4>
+<ul>
+  <li>matplotlib, seaborn</li>
+  <li>Power BI, Tableau</li>
+</ul>
+
+<h4>Tools</h4>
+<ul>
+  <li>numpy, pandas</li>
+  <li>Tensorflow, Keras, PyTorch</li>
+  <li>nltk, Spacy</li>
+  <li>OpenCV</li>
+</ul>
