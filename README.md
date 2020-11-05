@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep learning, Natural language processing, Computer vision, and various cloud platforms such as Amazon Web Services.
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
 - 💬 Ask me about Machine Learning algorithms and Cooking.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>
 
 ## &#x1f4c8; Tejas's GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
