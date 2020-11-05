@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>, Email: <a href = "tnpandit@uwaterloo.ca"> tnpandit@uwaterloo.ca </a>
 
-<hr>
-## &#x1f4c8;
+## &#x1f4c8; Tejas's GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&theme=radical&layout=compact" />
 </a>
