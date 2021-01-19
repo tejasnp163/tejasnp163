@@ -1,7 +1,7 @@
 ### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tejas Pandit.
 - 👨🏻‍🎓 I'm a graduate student at the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
-- 🔭 I’m currently working on various machine learning projects that deals with real-world data and extracts hidden and intresting patterns.
-- 🌱 I’m currently learning Deep learning, Natural language processing, Computer vision, and various cloud platforms such as Amazon Web Services.
+- 🔭 I’m currently working on Adversarial Machine Learning and MLOps.
+- 🌱 I’m currently learning distributed computing and various cloud platforms such as Amazon Web Services.
 - 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
 - 💬 Ask me about Machine Learning algorithms and Cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>
