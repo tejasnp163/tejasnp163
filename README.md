@@ -20,8 +20,8 @@
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=power-bi&logo=linux&logoColor=white&color=2E86C1)
-![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2E86C1)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 ## Certifications
 - <a href="https://credentials.databricks.com/5e797af4-4449-4485-8c74-ce964b2eac9d#acc.Y5bKaZIL">Databricks Certified Generative AI Engineer Associate</a>
