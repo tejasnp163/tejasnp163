@@ -24,8 +24,8 @@
 - <a href="https://credentials.databricks.com/111482b3-399d-424d-94eb-661ce6ac4eba#acc.q4K3tSf0">Databricks Certified Data Engineer Associate</a>
 
 ## 🔧 Technologies & Tools
-![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks)(#)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)(#)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2E86C1)
