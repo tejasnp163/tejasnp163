@@ -1,9 +1,9 @@
 ### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Tejas Pandit.
-- 👨🏻‍🎓 Greaduated from the University of Waterloo specializing in Artificial Intelligence and Machine Learning.
-- 🔭 Worked on Adversarial Machine Learning and MLOps.
-- 🌱 Working on learning distributed computing and various cloud platforms such as Amazon Web Services and Databricks.
-- 👯 I’m looking to collaborate on AI/ML/DS projects in open-source community.
-- 💬 Ask me about Machine Learning algorithms and Cooking.
+- 👨🏻‍🎓 Master's in AI/ML from University of Waterloo with 4+ years delivering production ML systems for Fortune 500 clients.
+- 🔭 Principal Consultant specializing in MLOps, LLMOps, and GenAI implementations on Databricks platform across insurance, semiconductors, and travel industries.
+- 🌱 Certified Databricks Professional with expertise in distributed computing, PySpark, MLflow, and multi-cloud deployments (Azure, AWS).
+- 👯 Open to collaborating on MLOps, LLMOps, and GenAI projects - especially those involving transformer models and enterprise AI deployments.
+- 💬 Ask me about scaling ML pipelines, GenAI implementations, cost-effective AI solutions, and authentic Indian cooking.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/tejas-pandit/"> LinkedIn </a>
 
 ## &#x1f4c8; Tejas's GitHub Stats
@@ -21,6 +21,13 @@
 ![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=power-bi&logo=linux&logoColor=white&color=2E86C1)
 ![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2E86C1)
 
+## Certifications
+- ![Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/5e797af4-4449-4485-8c74-ce964b2eac9d#acc.Y5bKaZIL)
+- ![Databricks Certified Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/cd03f649-0e87-476a-9f22-01cefe56b798#acc.TyIbmG8N)
+- ![Databricks Certified Machine Learning Professional](https://credentials.databricks.com/817c3c64-2034-4219-b25c-ed892ebb8042#acc.1FWxUDo3)
+- ![Databricks Certified Machine Learning Associate](https://credentials.databricks.com/5497d8f6-0c61-4ee2-8491-200de5af7adb#acc.BVodzmDu)
+- ![Databricks Certified Data Engineer Professional](https://credentials.databricks.com/d6a0d212-d28e-48d8-9759-dbab7ff76619#acc.uT1prZcz)
+- ![Databricks Certified Data Engineer Associate](https://credentials.databricks.com/111482b3-399d-424d-94eb-661ce6ac4eba#acc.q4K3tSf0)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
