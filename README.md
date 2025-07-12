@@ -22,18 +22,12 @@
 ![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2E86C1)
 
 ## Certifications
-<a href="https://credentials.databricks.com/5e797af4-4449-4485-8c74-ce964b2eac9d#acc.Y5bKaZIL">Databricks Certified Generative AI Engineer Associate</a>
-<a href="https://credentials.databricks.com/cd03f649-0e87-476a-9f22-01cefe56b798#acc.TyIbmG8N">Databricks Certified Associate Developer for Apache Spark 3.0</a>
-<a href="https://credentials.databricks.com/817c3c64-2034-4219-b25c-ed892ebb8042#acc.1FWxUDo3">Databricks Certified Machine Learning Professional</a>
-<a href="https://credentials.databricks.com/5497d8f6-0c61-4ee2-8491-200de5af7adb#acc.BVodzmDu">Databricks Certified Machine Learning Associate</a>
-<a href="https://credentials.databricks.com/d6a0d212-d28e-48d8-9759-dbab7ff76619#acc.uT1prZcz">Databricks Certified Data Engineer Professional</a>
-<a href="https://credentials.databricks.com/111482b3-399d-424d-94eb-661ce6ac4eba#acc.q4K3tSf0">Databricks Certified Data Engineer Associate</a>
-- ![Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/5e797af4-4449-4485-8c74-ce964b2eac9d#acc.Y5bKaZIL)
-- ![Databricks Certified Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/cd03f649-0e87-476a-9f22-01cefe56b798#acc.TyIbmG8N)
-- ![Databricks Certified Machine Learning Professional](https://credentials.databricks.com/817c3c64-2034-4219-b25c-ed892ebb8042#acc.1FWxUDo3)
-- ![Databricks Certified Machine Learning Associate](https://credentials.databricks.com/5497d8f6-0c61-4ee2-8491-200de5af7adb#acc.BVodzmDu)
-- ![Databricks Certified Data Engineer Professional](https://credentials.databricks.com/d6a0d212-d28e-48d8-9759-dbab7ff76619#acc.uT1prZcz)
-- ![Databricks Certified Data Engineer Associate](https://credentials.databricks.com/111482b3-399d-424d-94eb-661ce6ac4eba#acc.q4K3tSf0)
+- <a href="https://credentials.databricks.com/5e797af4-4449-4485-8c74-ce964b2eac9d#acc.Y5bKaZIL">Databricks Certified Generative AI Engineer Associate</a>
+- <a href="https://credentials.databricks.com/cd03f649-0e87-476a-9f22-01cefe56b798#acc.TyIbmG8N">Databricks Certified Associate Developer for Apache Spark 3.0</a>
+- <a href="https://credentials.databricks.com/817c3c64-2034-4219-b25c-ed892ebb8042#acc.1FWxUDo3">Databricks Certified Machine Learning Professional</a>
+- <a href="https://credentials.databricks.com/5497d8f6-0c61-4ee2-8491-200de5af7adb#acc.BVodzmDu">Databricks Certified Machine Learning Associate</a>
+- <a href="https://credentials.databricks.com/d6a0d212-d28e-48d8-9759-dbab7ff76619#acc.uT1prZcz">Databricks Certified Data Engineer Professional</a>
+- <a href="https://credentials.databricks.com/111482b3-399d-424d-94eb-661ce6ac4eba#acc.q4K3tSf0">Databricks Certified Data Engineer Associate</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2E86C1)
